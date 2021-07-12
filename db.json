@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Rohit Negi",
+      "status": "Positive",
+      "email": "Rohit@negi.tv",
+      "address": "bus stand, sheopur, mp",
+      "phone": "010-692-6593 x09125",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Santosh Bhatia",
+      "status": "Negative",
+      "email": "Santosh@bhatia.net",
+      "address": "mp,india",
+      "phone": "1-463-123-4447",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Toni kakkar",
+      "status": "Negative",
+      "email": "toni.Kakkar@kory.org",
+      "address": "dhodar, sheopur, mp",
+      "phone": "493-170-9623 x156",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "status": "Positive",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": "sabalgarah, mp",
+      "phone": "(254)954-1289",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "status": "Positive",
+      "email": "Karley_Dach@jasper.info",
+      "address": "suthara, sheopur, mp",
+      "phone": "1-477-935-8478 x6430",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "status": "Positive",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": "beerpur, mp",
+      "phone": "210.067.6132",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "name": "Vinod Jatav",
+      "status": "Negative",
+      "email": "jatavvinod1997@gmail.com",
+      "phone": "8091744054",
+      "address": "Baddan, Sheopur, MP, INDIA",
+      "id": 8
+    },
+    {
+      "name": "Saurabh Sharma",
+      "status": "Positive",
+      "email": "shaurabh1995@gmail.com",
+      "phone": "6789943854",
+      "address": "Behind Bus stand, Bopal, Madhya Pradesh, India",
+      "id": 9
+    }
+  ]
+}

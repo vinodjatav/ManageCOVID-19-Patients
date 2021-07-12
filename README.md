@@ -17,6 +17,12 @@ This app uses json server npm API to fetch data.
 
 
 ## Usage
+Befor starting the project please install node_modules
+
+You can install node_modules with given command
+```
+npm install -g node-modules
+```
 
 ### You can start the app with this commands:
 ```

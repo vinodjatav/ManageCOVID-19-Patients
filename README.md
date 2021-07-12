@@ -18,10 +18,9 @@ This app uses json server npm API to fetch data.
 
 ## Usage
 
-### You can start the app with these commands:
+### You can start the app with this commands:
 ```
 npm run start:dev
-
 ```
 Go to [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
